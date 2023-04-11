@@ -1,0 +1,17 @@
+{
+  "name": "github-search",
+  "version": "1.0.0",
+  "description": "_В качестве UI использовал TailwindCss через CDN_",
+  "main": "index.js",
+  "homepage": "https://silantievmax.github.io/github-search",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
